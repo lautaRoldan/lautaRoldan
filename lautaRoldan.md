@@ -36,11 +36,13 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img align="" height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
-</div>
+<details>
+  <summon>📊 GitHub Stats</summon>
+  <div align="center">
+    <img align="" height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
+  </div>
+</details>
+  
 
 ## 🤝🏻 Connect with Me
 
