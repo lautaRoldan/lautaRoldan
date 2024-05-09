@@ -37,7 +37,7 @@
 </p>
 
 <details>
-  <summon>📊 GitHub Stats</summon>
+  <summary>📊 GitHub Stats</summary>
   <div align="center">
     <img align="" height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
   </div>
