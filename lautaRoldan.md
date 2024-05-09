@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Lautaro</h1></summary>
-    <img src="https://visitcount.itsvg.in/api?id=lautaRoldan&icon=0&color=1"/>
+    <img width="100px" src="https://visitcount.itsvg.in/api?id=lautaRoldan&icon=0&color=1"/>
   </ul>
 </div>
 
@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img align="" height='130px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
+  <img align="" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
   <img align="" height='130px' src="https://github-contributor-stats.vercel.app/api?username=lautaRoldan&limit=5&theme=oldie&combine_all_yearly_contributions=true"/>
 </div>
 
