@@ -40,14 +40,13 @@
 <details>
   <summary>📊 GitHub Stats</summary>
   <div align="center">
-    <img align="" height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
-    <img width="100px" src="https://visitcount.itsvg.in/api?id=lautaRoldan&icon=0&color=1"/>
+    <img align="center" height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
   </div>
 </details>
   
 
 ## 🤝🏻 Connect with Me
-
+[![VISIT](https://visitcount.itsvg.in/api?id=lautaRoldan&icon=0&color=1)](https://visitcount.itsvg.in)
 <p align="center">
   <a href="https://www.linkedin.com/in/lautaroezequielroldan/"><img src="https://img.shields.io/badge/-Lautaro%20Roldan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:lautaro-22@live.com.ar"><img src="https://img.shields.io/badge/-My%20Email%20Redirect-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
