@@ -9,7 +9,7 @@
 </div>
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture>  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> My languajes and tools
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture>  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture><samp> My languajes and tools </samp>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,14 +38,14 @@
 ##
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary><samp>📊 GitHub Stats</samp></summary>
   <div align="center">
     <img align="center" height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
   </div>
 </details>
   
 
-## 🤝🏻 Connect with Me
+## 🤝🏻 <samp>Connect with Me</samp>
 [![VISIT](https://visitcount.itsvg.in/api?id=lautaRoldan&icon=0&color=1)](https://visitcount.itsvg.in)
 <p align="center">
   <a href="https://www.linkedin.com/in/lautaroezequielroldan/"><img src="https://img.shields.io/badge/-Lautaro%20Roldan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
