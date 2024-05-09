@@ -5,6 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Lautaro</h1></summary>
+    [![](https://visitcount.itsvg.in/api?id=lautaRoldan&icon=0&color=1)](https://visitcount.itsvg.in)
   </ul>
 </div>
 
