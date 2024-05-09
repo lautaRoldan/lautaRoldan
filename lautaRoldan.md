@@ -9,7 +9,7 @@
 </div>
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> My languajes and tools
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture>  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> My languajes and tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,15 +23,11 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,powershell,ubuntu,windows,linux,git&perline=6" />
   </a>
 </p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
