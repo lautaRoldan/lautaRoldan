@@ -10,7 +10,7 @@
 
 ##
 
-<p align="center">I'm a Full Stack Developer from Argentina.
+<p align="center">I'm a Full Stack Developer from Argentina and im 21.
 I've started studying web design like a hobby, something just to spend my time on, and now i can say for sure that makes me happy to give my energy learning this constantly increasing world.
 I have experience on Front End, using some lenguajes like: html, css, sass, bootstrap, chakraUi, react, next.
 Also I have experience too on Back End, using some lenguajes like: php, laravel, mySql, etc.
