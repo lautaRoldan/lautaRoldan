@@ -39,10 +39,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img align="" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
-  <img align="" height='130px' src="https://github-contributor-stats.vercel.app/api?username=lautaRoldan&limit=5&theme=oldie&combine_all_yearly_contributions=true"/>
+  <img align="" height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=lautaRoldan&theme=react&hide_border=true"/>
 </div>
 
+## 🤝🏻 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lautaroezequielroldan/"><img src="https://img.shields.io/badge/-Lautaro%20Roldan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:lautaro-22@live.com.ar"><img src="https://img.shields.io/badge/lautaro-22@live.com.ar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/laucha_a/"><img src="https://img.shields.io/badge/-@laucha_a-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
