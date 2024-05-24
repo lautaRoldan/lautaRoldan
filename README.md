@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><samp><h1 style="display: inline-block">Hello there, my name is Lautaro <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30"></h1></samp></summary>
+    <summary><samp><h1 style="display: inline-block">Hello there, my nameE is Lautaro <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30"></h1></samp></summary>
   </ul>
 </div>
 
