@@ -63,7 +63,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lautaroezequielroldan/"><img src="https://img.shields.io/badge/-Lautaro%20Roldan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:lautaro-22@live.com.ar"><img src="https://img.shields.io/badge/-My%20Email%20Redirect-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/laucha_a/"><img src="https://img.shields.io/badge/-@laucha_a-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/lautaroldaan/"><img src="https://img.shields.io/badge/-@lautaroldaan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
